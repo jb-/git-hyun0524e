@@ -1,5 +1,8 @@
 # git-hyun0524e
 
 ### 모든 것이 지워진 세상
+<<<<<<< HEAD
 shy
 good
+=======
+>>>>>>> delete_content_of_readme
