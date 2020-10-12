@@ -2,11 +2,6 @@
 
 ### 모든 것이 지워진 세상
 good
-<<<<<<< HEAD
-nice
-great!
-=======
 great
 
 ### Branch 세상입니다!
->>>>>>> test
